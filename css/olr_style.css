@@ -1,0 +1,8 @@
+.form_10 .submit {
+	display: inline;
+	margin-left: 10px;
+}
+.form_11 .submit {
+	display: inline-block;
+	margin-left: 10px;
+}#table1 td {	text-align: left;	padding-left: 23px;	font-weight: 600;}#table1 .sorting_1 {	color: #0073AA;}.export_button {	float: right;	margin-bottom: 5px;	margin-right:30px;	font-weight: 700;	background: #0085BA;	border: 1px solid #006799 !important;	padding: 6px 10px;	border-radius: 3px;	box-shadow: -1px 1px 1px #006799;}.export_button  a{color:#fff; text-decoration:none; font-weight:400 !important;}#table1_filter label {	margin-right: 30px !important;}#table1 {	padding-top: 30px;}.form_11 {	padding-left: 36px;}#table1_paginate a {	background: #0073AA;	color: #fff !important;}#table1_paginate {	margin-right: 30px;	padding-top: 27px;}#table1_paginate .paginate_button.current {	background: #00B9EB !important;	border: 1px solid #00B9EB !important;}
